@@ -1,4 +1,5 @@
 # Lab 5 - Starter
+### Name: Ashley Zhou
 [expose.html](https://ashleyzhou1.github.io/Lab5_Starter/expose.html)
 
 [explore.html](https://ashleyzhou1.github.io/Lab5_Starter/explore.html)
